@@ -11,7 +11,7 @@ function App() {
       <main className="app-main">
         <div className="welcome-card">
           <h2>Welcome to Your New Project!</h2>
-          <p>This template includes:</p>
+          <p>This template incl   udes:</p>
           <ul className="features-list">
             <li>⚡ Vite for lightning-fast development</li>
             <li>⚛️ React 19 with modern features</li>
